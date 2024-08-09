@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pravin
+Hi My name is Pravin
 ==============================================================================================================================
 
 Full Stack Web developer and UI/UX design Enthusiast
@@ -11,7 +11,7 @@ I've been coding since the past 3 years, started with C then moved on to web dev
 * ✉️  You can contact me at [pravintiwade@outlook.com](mailto:pravintiwade@outlook.com)
 * 🧠  I'm learning Express.js, Typescript and a few other things..
 * 🤝  I'm open to collaborating on anything thats innnovative and you need a helping hand with!!
-* ⚡  I love playing games Minecraft is one of my favorite :), theres that creative knack again
+* ⚡  I love playing games, Minecraft is one of my favorite :), theres that creative knack again
 
 ### Skills
 
